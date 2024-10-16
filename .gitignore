@@ -2,6 +2,6 @@
 alembic/versions/
 .env
 poetry.lock
-**/__pychache__
+**/__pychache__/
 tmp/Logs.log
 tmp/dbLogs.log
