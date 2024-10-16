@@ -1,0 +1,5 @@
+.venv
+./alembic/versions/
+.env
+poetry.lock
+**/__pychache__

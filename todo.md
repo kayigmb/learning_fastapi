@@ -1,0 +1,5 @@
+-- Done Partially --  Authentication 
+-------Todo------------
+-- Done - Create Roles - Create relations to the users
+-- Done-- middleWare for authorization
+-- 
